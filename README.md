@@ -1,5 +1,5 @@
 # Dataset-creation-Gangster_movies
-This is a web-scraping project. It aims to create a dataset of Gangster movies, movies from all languages whose information is available on wikipedia
+This is a web-scraping project. It aims to create a dataset of Gangster movies, movies from all languages whose information is available on wikipedia on https://en.wikipedia.org/wiki/Gangster_film
 
 I find gangster/mafia based movies interesting as they present character development quite beautifully. 
 
